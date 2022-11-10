@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">steerpath-smart-sdk-capacitor-test</string>
+    <string name="title_activity_main">steerpath-smart-sdk-capacitor-test</string>
+    <string name="package_name">com.wunderdog.steerpathsmartsdkcapacitortest</string>
+    <string name="custom_url_scheme">com.wunderdog.steerpathsmartsdkcapacitortest</string>
+</resources>

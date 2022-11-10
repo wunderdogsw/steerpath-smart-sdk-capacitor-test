@@ -1,0 +1,6 @@
+{
+  "appId": "com.wunderdog.steerpathsmartsdkcapacitortest",
+  "appName": "steerpath-smart-sdk-capacitor-test",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

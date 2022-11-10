@@ -1,0 +1,18 @@
+{
+  "name": "steerpath-smart-sdk-capacitor-test",
+  "version": "0.0.1",
+  "description": "Steerpath Smart SDK Capacitor Test",
+  "main": "www/index.html",
+  "scripts": {
+    "android": "cap run android",
+    "ios": "cap run ios"
+  },
+  "author": "Jussi Kinnula <jussi.kinnula@wunderdog.fi>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@capacitor/android": "^4.4.0",
+    "@capacitor/cli": "^4.4.0",
+    "@capacitor/core": "^4.4.0",
+    "@capacitor/ios": "^4.4.0"
+  }
+}
